@@ -1,0 +1,4 @@
+frmLerChaveOffice = 97, 90, 814, 772, C, 0, 0, 0, 0, C
+WinReg32 = 38, 63, 968, 789, C
+clsBuscaChaves = 46, 45, 997, 684, C
+mdlPrincipal = 42, 77, 744, 375, C
