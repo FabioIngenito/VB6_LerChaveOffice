@@ -7,19 +7,33 @@ To verify the path key that Is stored for the server, start the Windows Registry
 In this key you will find the CLSIDs for the automation servers registered in the system. Then, using the values, find the key that represents the Office application that you want To automate, And check the path Of the LocalServer32 key Of the Office application.
 
 +========================+=========================================+
+
 | Server Office          | Chave CLSID - Key CLSID                 |
+
 +========================+=========================================+
+
 | Access.Application     | {73A4C9C1-D68D-11D0-98BF-00A0C90DC8D9}  |
+
 +------------------------+-----------------------------------------+
+
 | Excel.Application      | {00024500-0000-0000-C000-000000000046}  |
+
 +------------------------+-----------------------------------------+
+
 | FrontPage.Application  | {04DF1015-7007-11D1-83BC-006097ABE675}  |
+
 +------------------------+-----------------------------------------+
+
 | Outlook.Application    | {0006F03A-0000-0000-C000-000000000046}  |
+
 +------------------------+-----------------------------------------+
+
 | PowerPoint.Application | {91493441-5A91-11CF-8700-00AA0060263B}  |
+
 +------------------------+-----------------------------------------+
+
 | Word.Application       | {000209FF-0000-0000-C000-000000000046}  |
+
 +------------------------+-----------------------------------------+
 
 
